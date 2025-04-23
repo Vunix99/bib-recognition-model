@@ -1,0 +1,310 @@
+[
+    {
+        "bbox_id": "108_456_191_522",
+        "bib_number": "100",
+        "ocr_confidence": 1.0,
+        "yolo_confidence": 0.89,
+        "image_path": "imagedummy/0.png"
+    },
+    {
+        "bbox_id": "248_486_311_533",
+        "bib_number": "50",
+        "ocr_confidence": 1.0,
+        "yolo_confidence": 0.88,
+        "image_path": "imagedummy/0.png"
+    },
+    {
+        "bbox_id": "407_502_485_562",
+        "bib_number": "389",
+        "ocr_confidence": 1.0,
+        "yolo_confidence": 0.87,
+        "image_path": "imagedummy/0.png"
+    },
+    {
+        "bbox_id": "1054_274_1141_338",
+        "bib_number": "462561",
+        "ocr_confidence": 0.91,
+        "yolo_confidence": 0.87,
+        "image_path": "imagedummy/10.png"
+    },
+    {
+        "bbox_id": "842_257_901_305",
+        "bib_number": "2237",
+        "ocr_confidence": 1.0,
+        "yolo_confidence": 0.86,
+        "image_path": "imagedummy/10.png"
+    },
+    {
+        "bbox_id": "766_690_944_849",
+        "bib_number": "3352",
+        "ocr_confidence": 1.0,
+        "yolo_confidence": 0.87,
+        "image_path": "imagedummy/11.png"
+    },
+    {
+        "bbox_id": "592_470_641_511",
+        "bib_number": "1199",
+        "ocr_confidence": 1.0,
+        "yolo_confidence": 0.87,
+        "image_path": "imagedummy/12.png"
+    },
+    {
+        "bbox_id": "724_450_774_491",
+        "bib_number": "2843",
+        "ocr_confidence": 0.85,
+        "yolo_confidence": 0.86,
+        "image_path": "imagedummy/12.png"
+    },
+    {
+        "bbox_id": "1049_453_1096_489",
+        "bib_number": "1265",
+        "ocr_confidence": 0.82,
+        "yolo_confidence": 0.85,
+        "image_path": "imagedummy/12.png"
+    },
+    {
+        "bbox_id": "278_496_326_540",
+        "bib_number": "2781",
+        "ocr_confidence": 1.0,
+        "yolo_confidence": 0.84,
+        "image_path": "imagedummy/12.png"
+    },
+    {
+        "bbox_id": "920_446_967_488",
+        "bib_number": "6474",
+        "ocr_confidence": 0.97,
+        "yolo_confidence": 0.81,
+        "image_path": "imagedummy/12.png"
+    },
+    {
+        "bbox_id": "2213_1138_2445_1313",
+        "bib_number": "365",
+        "ocr_confidence": 1.0,
+        "yolo_confidence": 0.86,
+        "image_path": "imagedummy/15.png"
+    },
+    {
+        "bbox_id": "1353_1166_1548_1319",
+        "bib_number": "2013",
+        "ocr_confidence": 0.8,
+        "yolo_confidence": 0.86,
+        "image_path": "imagedummy/15.png"
+    },
+    {
+        "bbox_id": "1680_1193_1916_1364",
+        "bib_number": "2357",
+        "ocr_confidence": 1.0,
+        "yolo_confidence": 0.82,
+        "image_path": "imagedummy/15.png"
+    },
+    {
+        "bbox_id": "1464_259_1510_297",
+        "bib_number": "6293",
+        "ocr_confidence": 1.0,
+        "yolo_confidence": 0.87,
+        "image_path": "imagedummy/16.png"
+    },
+    {
+        "bbox_id": "865_313_914_350",
+        "bib_number": "6216",
+        "ocr_confidence": 1.0,
+        "yolo_confidence": 0.86,
+        "image_path": "imagedummy/16.png"
+    },
+    {
+        "bbox_id": "1541_837_1607_885",
+        "bib_number": "28732",
+        "ocr_confidence": 0.86,
+        "yolo_confidence": 0.86,
+        "image_path": "imagedummy/18.png"
+    },
+    {
+        "bbox_id": "1819_853_1952_962",
+        "bib_number": "15704",
+        "ocr_confidence": 1.0,
+        "yolo_confidence": 0.85,
+        "image_path": "imagedummy/18.png"
+    },
+    {
+        "bbox_id": "565_858_637_910",
+        "bib_number": "135964",
+        "ocr_confidence": 0.97,
+        "yolo_confidence": 0.83,
+        "image_path": "imagedummy/18.png"
+    },
+    {
+        "bbox_id": "655_347_719_393",
+        "bib_number": "2131",
+        "ocr_confidence": 0.82,
+        "yolo_confidence": 0.9,
+        "image_path": "imagedummy/2.png"
+    },
+    {
+        "bbox_id": "358_318_426_359",
+        "bib_number": "2333",
+        "ocr_confidence": 1.0,
+        "yolo_confidence": 0.8,
+        "image_path": "imagedummy/2.png"
+    },
+    {
+        "bbox_id": "893_355_960_404",
+        "bib_number": "3009",
+        "ocr_confidence": 1.0,
+        "yolo_confidence": 0.89,
+        "image_path": "imagedummy/20.png"
+    },
+    {
+        "bbox_id": "534_334_596_380",
+        "bib_number": "3529",
+        "ocr_confidence": 1.0,
+        "yolo_confidence": 0.88,
+        "image_path": "imagedummy/20.png"
+    },
+    {
+        "bbox_id": "1086_279_1146_329",
+        "bib_number": "3038",
+        "ocr_confidence": 1.0,
+        "yolo_confidence": 0.86,
+        "image_path": "imagedummy/20.png"
+    },
+    {
+        "bbox_id": "646_373_711_419",
+        "bib_number": "3486",
+        "ocr_confidence": 1.0,
+        "yolo_confidence": 0.85,
+        "image_path": "imagedummy/20.png"
+    },
+    {
+        "bbox_id": "787_328_840_366",
+        "bib_number": "354",
+        "ocr_confidence": 1.0,
+        "yolo_confidence": 0.84,
+        "image_path": "imagedummy/20.png"
+    },
+    {
+        "bbox_id": "585_454_670_522",
+        "bib_number": "2178",
+        "ocr_confidence": 1.0,
+        "yolo_confidence": 0.88,
+        "image_path": "imagedummy/22.png"
+    },
+    {
+        "bbox_id": "616_399_690_458",
+        "bib_number": "422695",
+        "ocr_confidence": 0.88,
+        "yolo_confidence": 0.84,
+        "image_path": "imagedummy/24.png"
+    },
+    {
+        "bbox_id": "0_495_34_548",
+        "bib_number": "085",
+        "ocr_confidence": 1.0,
+        "yolo_confidence": 0.83,
+        "image_path": "imagedummy/24.png"
+    },
+    {
+        "bbox_id": "577_364_636_410",
+        "bib_number": "6306",
+        "ocr_confidence": 1.0,
+        "yolo_confidence": 0.85,
+        "image_path": "imagedummy/27.png"
+    },
+    {
+        "bbox_id": "343_358_409_406",
+        "bib_number": "1145",
+        "ocr_confidence": 0.97,
+        "yolo_confidence": 0.82,
+        "image_path": "imagedummy/27.png"
+    },
+    {
+        "bbox_id": "182_308_229_341",
+        "bib_number": "4759",
+        "ocr_confidence": 0.84,
+        "yolo_confidence": 0.82,
+        "image_path": "imagedummy/27.png"
+    },
+    {
+        "bbox_id": "1135_458_1230_519",
+        "bib_number": "3799",
+        "ocr_confidence": 1.0,
+        "yolo_confidence": 0.86,
+        "image_path": "imagedummy/28.png"
+    },
+    {
+        "bbox_id": "512_457_602_534",
+        "bib_number": "0535",
+        "ocr_confidence": 1.0,
+        "yolo_confidence": 0.84,
+        "image_path": "imagedummy/28.png"
+    },
+    {
+        "bbox_id": "867_339_940_381",
+        "bib_number": "12222",
+        "ocr_confidence": 0.85,
+        "yolo_confidence": 0.82,
+        "image_path": "imagedummy/29.png"
+    },
+    {
+        "bbox_id": "432_374_549_464",
+        "bib_number": "12065",
+        "ocr_confidence": 0.98,
+        "yolo_confidence": 0.81,
+        "image_path": "imagedummy/29.png"
+    },
+    {
+        "bbox_id": "765_200_872_276",
+        "bib_number": "5505",
+        "ocr_confidence": 1.0,
+        "yolo_confidence": 0.86,
+        "image_path": "imagedummy/3.png"
+    },
+    {
+        "bbox_id": "559_383_614_423",
+        "bib_number": "4203",
+        "ocr_confidence": 1.0,
+        "yolo_confidence": 0.88,
+        "image_path": "imagedummy/5.png"
+    },
+    {
+        "bbox_id": "739_370_792_410",
+        "bib_number": "4218",
+        "ocr_confidence": 1.0,
+        "yolo_confidence": 0.88,
+        "image_path": "imagedummy/5.png"
+    },
+    {
+        "bbox_id": "811_367_855_401",
+        "bib_number": "736",
+        "ocr_confidence": 0.99,
+        "yolo_confidence": 0.88,
+        "image_path": "imagedummy/5.png"
+    },
+    {
+        "bbox_id": "232_384_284_423",
+        "bib_number": "908",
+        "ocr_confidence": 1.0,
+        "yolo_confidence": 0.86,
+        "image_path": "imagedummy/5.png"
+    },
+    {
+        "bbox_id": "441_342_495_383",
+        "bib_number": "4234",
+        "ocr_confidence": 1.0,
+        "yolo_confidence": 0.83,
+        "image_path": "imagedummy/5.png"
+    },
+    {
+        "bbox_id": "1029_453_1096_511",
+        "bib_number": "49798",
+        "ocr_confidence": 1.0,
+        "yolo_confidence": 0.84,
+        "image_path": "imagedummy/6.png"
+    },
+    {
+        "bbox_id": "767_564_867_640",
+        "bib_number": "40685",
+        "ocr_confidence": 1.0,
+        "yolo_confidence": 0.89,
+        "image_path": "imagedummy/7.png"
+    }
+]

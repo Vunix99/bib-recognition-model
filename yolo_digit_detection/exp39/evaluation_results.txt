@@ -1,0 +1,6 @@
+Precision         : 93.09%
+Recall            : 87.05%
+F1 Score          : 89.97%
+mAP@0.5           : 92.35%
+mAP@0.5:0.95      : 64.86%
+Approx. Accuracy  : 81.04%
